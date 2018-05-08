@@ -1,0 +1,18 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: order
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: wanghao
+    url: jdbc:mysql://59.110.215.202:3306/test?characterEncoding=utf-8&useSSL=false
+  jpa:
+    show-sql: true
+evn: sit
+good: sorryAAA
+girl: 
+  name: zhangsan
+  age: 18
+ 
